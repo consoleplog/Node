@@ -1,4 +1,4 @@
-### 部署项目
+### 部署项目 deploy project
 
 1. 上传代码：ssh   git   github
 
@@ -17,7 +17,7 @@
     - apt-get install：安装软件
 
     - nginx : 被安装的软件
-4. 配置 nginx Server
+4. 配置 ***nginx*** Server
 
     修改配置文件，进入： cd /etc/nginx 文件夹下（nginx配置区域）
 
@@ -82,5 +82,9 @@ server {
 3. 保存并退出界面：先按ESC 再按大写Z再次。
 
 4. 不保存强制退出：先按ESC 然后输入 :q!
+
+request  请求
+
+response 响应
 
 writer:liyuexi
